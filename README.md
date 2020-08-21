@@ -11,12 +11,18 @@
 
 <br/>
 
+---
+
 ### I am Junior Web Developer (MERN Stack)
 * 🔭 I am a third year student currently studying Geology at Pyay University. <br>
 * 🌱 In web development, I am studying React / redux in fontend and node.js, express, mongodb in the backend. <br>
 * 👯 Now I am junior web developer and trying to write my own MERN Stack projects. <br>
 * 📫 I’m looking to collaborate with other content creators <br>
 * 💬 You can contact [09691497838], [09762637636] by phone number <br/>
+
+<br/>
+
+---
 
 **Language ==>** &nbsp;
 <img src='https://img.shields.io/badge/-html5-000000?style=flat&logo=HTML5' alt='HTML5'/>
@@ -47,8 +53,9 @@
 <img src='https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC6242' alt='Linux'/>
 <img src='https://img.shields.io/badge/-Windows-222222?style=flat&logo=Windows&logoColor=00FFFF' alt='Window'/>
 
+<br/>
 
-
+---
 
 
 
