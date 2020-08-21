@@ -30,12 +30,12 @@
 <img src='https://img.shields.io/badge/-sass-000000?style=flat&logo=SASS' alt='SASS'/>
 <img src='https://img.shields.io/badge/-bootstrap-000000?style=flat&logo=Bootstrap' alt='Bootstrap'/>
 <img src='https://img.shields.io/badge/-materialUi-000000?style=flat&logo=Material-Ui' alt='Material-Ui'/>
-<img src='https://img.shields.io/badge/-react-000000?style=flat&logo=React' alt='React'/>
+<img src='https://img.shields.io/badge/-React-000000?style=flat&logo=React' alt='React'/>
 <img src='https://img.shields.io/badge/-next-000000?style=flat&logo=Next.js' alt='Next' />
 <img src='https://img.shields.io/badge/-node.js-000000?style=flat&logo=Node.js' alt='Node.js'/>
-<img src='https://img.shields.io/badge/-express-000000?style=flat&logo=Express.js' alt='Express'/>
+<img src='https://img.shields.io/badge/-Express.js-000000?style=flat&logo=Express.js' alt='Express'/>
 <img src='https://img.shields.io/badge/-mongo-000000?style=flat&logo=MongoDB' alt='MongoDB'/>
-<img src='https://img.shields.io/badge/-SQL-000000?style=flat&logo=SQL' alt='SQL' />
+<img src='https://img.shields.io/badge/-SQL-000000?style=flat&logo=SQL' alt='MYSQL' />
 <img src='https://img.shields.io/badge/-flutter-000000?style=flat&logo=Flutter' alt='Flutter'/>
 
 
