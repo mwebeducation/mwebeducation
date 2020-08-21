@@ -12,10 +12,18 @@
 <br/>
 
 ### I am Junior Web Developer (MERN Stack)
-🔭 I am a third year student currently studying Geology at Pyay University. <br>
-🌱 In web development, I am studying React / redux in fontend and node.js, express, mongodb in the backend. <br>
-👯 Now I am junior web developer and trying to write my own MERN Stack projects. <br>
-📫 I’m looking to collaborate with other content creators <br>
-💬 You can contact [09691497838], [09762637636] by phone number 
+* 🔭 I am a third year student currently studying Geology at Pyay University. <br>
+* 🌱 In web development, I am studying React / redux in fontend and node.js, express, mongodb in the backend. <br>
+* 👯 Now I am junior web developer and trying to write my own MERN Stack projects. <br>
+* 📫 I’m looking to collaborate with other content creators <br>
+* 💬 You can contact [09691497838], [09762637636] by phone number <br/>
 
-* Language in use
+**Language ==>**
+<code> <a href='https://en.wikipedia.org/wiki/HTML'> <img align='left' width='26px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png'/> </a> </code> 
+<code> <a href='https://en.wikipedia.org/wiki/Cascading_Style_Sheets'> <img align='left' width='26px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png'/> </a> </code> 
+<code> <a href='https://en.wikipedia.org/wiki/JavaScript'> <img align='left' width='26px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png'/> </a> </code> 
+<code> <a href='https://en.wikipedia.org/wiki/Python'> <img align='left' width='26px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png'/> </a> </code>
+<code> <a href='https://en.wikipedia.org/wiki/Dart_(programming_language)'> <img align='left' width='26px' src='https://dart.dev/assets/shared/dart/logo+text/horizontal/white-e71fb382ad5229792cc704b3ee7a88f8013e986d6e34f0956d89c453b454d0a5.svg'/> </a> </code>
+
+
+
