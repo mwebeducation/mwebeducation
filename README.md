@@ -12,10 +12,10 @@
 <br/>
 
 ### I am Junior Web Developer (MERN Stack)
-~ 🔭 I am a third year student currently studying Geology at Pyay University.
-~ 🌱 In web development, I am studying React / redux in fontend and node.js, express, mongodb in the backend.
-~ 👯 Now I am junior web developer and trying to write my own MERN Stack projects.
-~ 📫 I’m looking to collaborate with other content creators
-~ 💬 You can contact [09691497838], [09762637636] by phone number
+🔭 I am a third year student currently studying Geology at Pyay University.
+🌱 In web development, I am studying React / redux in fontend and node.js, express, mongodb in the backend.
+👯 Now I am junior web developer and trying to write my own MERN Stack projects.
+📫 I’m looking to collaborate with other content creators
+💬 You can contact [09691497838], [09762637636] by phone number
 
 **** Language in use
