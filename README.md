@@ -19,13 +19,13 @@
 * 💬 You can contact [09691497838], [09762637636] by phone number <br/>
 
 **Language ==>** &nbsp;
-<code> <img width='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png'/> </code> &nbsp;
-<code> <img width='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png'/></code>  &nbsp;
-<code> <img width='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png'/> </code>  &nbsp;
-<code><img width='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png'/></code> &nbsp; <br/>
-
-**FrameWork ==>** &nbsp;
+<code> <img src='https://img.shields.io/badge/-html5-000000?style=flat&logo=HTML5' alt='HTML5' /> </code> &nbsp;
+<code> <img src='https://img.shields.io/badge/-css3-000000?style=flat&logo=CSS3' alt='CSS3' /> </code> &nbsp;
 <code> <img src='https://img.shields.io/badge/-javascript-000000?style=flat&logo=JavaScript' alt='Javascript' /> </code> &nbsp;
+<code> <img src='https://img.shields.io/badge/-dart-000000?style=flat&logo=Dart' alt='Dart' /> </code> &nbsp;
+<code> <img src='https://img.shields.io/badge/-python-000000?style=flat&logo=HTML5' alt='python' /> </code> &nbsp;
+**FrameWork ==>** &nbsp;
+
 
 
 
