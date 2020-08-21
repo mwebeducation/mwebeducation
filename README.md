@@ -35,8 +35,19 @@
 <img src='https://img.shields.io/badge/-node.js-000000?style=flat&logo=Node.js' alt='Node.js'/>
 <img src='https://img.shields.io/badge/-Express.js-000000?style=flat&logo=Express.js' alt='Express'/>
 <img src='https://img.shields.io/badge/-mongo-000000?style=flat&logo=MongoDB' alt='MongoDB'/>
-<img src='https://img.shields.io/badge/-SQL-000000?style=flat&logo=SQL' alt='MYSQL' />
+<img src='https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL' alt='MYSQL' />
 <img src='https://img.shields.io/badge/-flutter-000000?style=flat&logo=Flutter' alt='Flutter'/>
+<br/>
+
+**Other Tool ==>**
+<img src='https://img.shields.io/badge/-Atom-222222?style=flat&logo=Atom&logoColor=00FFFF' alt='Atom'/>
+<img src='https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032' alt='Git'/>
+<img src='https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=FFFFFF' alt='GitHub'/>
+<img src='https://img.shields.io/badge/-GitLab-222222?style=flat&logo=GitLab&logoColor=FFFFFF' alt='GitHub'/>
+<img src='https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC6242' alt='Linux'/>
+<img src='https://img.shields.io/badge/-Windows-222222?style=flat&logo=Windows&logoColor=00FFFF' alt='Window'/>
+
+
 
 
 
