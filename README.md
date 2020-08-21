@@ -19,11 +19,11 @@
 * 💬 You can contact [09691497838], [09762637636] by phone number <br/>
 
 **Language ==>** &nbsp;
-<code> <a href='https://en.wikipedia.org/wiki/HTML'> <img width='26px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png'/> </a> </code> 
-<code> <a href='https://en.wikipedia.org/wiki/Cascading_Style_Sheets'> <img width='26px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png'/> </a> </code> 
-<code> <a href='https://en.wikipedia.org/wiki/JavaScript'> <img width='26px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png'/> </a> </code> 
-<code> <a href='https://en.wikipedia.org/wiki/Python'> <img width='26px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png'/> </a> </code>
-<code> <a href='https://en.wikipedia.org/wiki/Dart_(programming_language)'> <img src='https://dart.dev/assets/shared/dart/logo+text/horizontal/white-e71fb382ad5229792cc704b3ee7a88f8013e986d6e34f0956d89c453b454d0a5.svg'/> </a> </code>
+<code> <a href='https://en.wikipedia.org/wiki/HTML'> <img width='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png'/> </a> </code> 
+<code> <a href='https://en.wikipedia.org/wiki/Cascading_Style_Sheets'> <img width='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png'/> </a> </code> 
+<code> <a href='https://en.wikipedia.org/wiki/JavaScript'> <img width='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png'/> </a> </code> 
+<code> <a href='https://en.wikipedia.org/wiki/Python'> <img width='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png'/> </a> </code>
+<code> <a href='https://en.wikipedia.org/wiki/Dart_(programming_language)'> <img width='32px' src='https://dart.dev/assets/shared/dart/logo+text/horizontal/white-e71fb382ad5229792cc704b3ee7a88f8013e986d6e34f0956d89c453b454d0a5.svg'/> </a> </code>
 
 
 
