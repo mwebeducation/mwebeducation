@@ -21,11 +21,9 @@
 * 📫 I’m looking to collaborate with other content creators <br>
 * 💬 You can contact [09691497838], [09762637636] by phone number <br/>
 
-<br/>
 
 ---
 
-<br>
 
 **Language ==>** &nbsp;
 <img src='https://img.shields.io/badge/-html5-000000?style=flat&logo=HTML5' alt='HTML5'/>
