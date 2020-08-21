@@ -67,7 +67,7 @@
 
 ### ❤️ My Projects website Links
 <br>
-<a hre='https://react-calculator-ucae.netlify.app/'> <img alt="React_Calculator" weight='250px' height="250px" src="https://i.ibb.co/VCcxFW3/react-Calculator.png"> </a>
+<a href='https://react-calculator-ucae.netlify.app/'> <img alt="React_Calculator" weight='250px' height="250px" src="https://i.ibb.co/VCcxFW3/react-Calculator.png"> </a>
 
 
 ****** THE END! Thank for Watching; ******
